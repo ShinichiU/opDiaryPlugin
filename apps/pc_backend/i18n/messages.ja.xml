@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>Friend diaries for daily news</source>
+        <target>デイリーニュース用フレンド日記</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
